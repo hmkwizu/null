@@ -8,7 +8,7 @@ package null
 import (
 	"time"
 
-	"gopkg.in/mgo.v2/bson"
+	"github.com/globalsign/mgo/bson"
 )
 
 // GetBSON provides BSON encoding for String
